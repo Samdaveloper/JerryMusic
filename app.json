@@ -120,7 +120,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/xDmeteorite/JerryMusicBot",
+      "value": "https://github.com/Samdaveloper/JerryMusic",
       "required": true
     },
     "UPSTREAM_BRANCH": {
