@@ -55,7 +55,7 @@ Read Docs for Detailed Description and Setup Guide on deploying Bot.
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://heroku.com/deploy?template=https://github.com/xDmeteorite/JerryMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/samdaveloper/JerryMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
     
 </details>
 
